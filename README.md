@@ -53,3 +53,9 @@ npm run start
 ```
 
 ---
+
+<h2>📃 Docs API</h2>
+  
+Postman :
+* Run Project
+* Open Postman and Import for collections docs/Bookshelf API Test.postman_collection.json
