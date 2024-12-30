@@ -1,4 +1,4 @@
-<h1 align="center" id="title">bookshelf-webservice-api</h1>
+<h1 align="center" id="title">node-bookshelf-backend</h1>
 
 <p align="center" id="description">REST API for managing and organizing book collections with full CRUD functionality.</p>
 
