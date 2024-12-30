@@ -1,0 +1,26 @@
+{
+  "env": {
+    "browser": true,
+    "commonjs": true,
+    "es2021": true,
+    "node": true
+  },
+  "extends": "airbnb-base",
+  "parserOptions": {
+    "ecmaVersion": "latest"
+  },
+  "rules": {
+    // Disable Warning for Console
+    "no-console": "off",
+    // Disable Waring No Used Variable
+    "no-unused-vars": "off",
+    // Disable Waring No Extraneous Dependencies
+    "import/no-extraneous-dependencies": "off",
+    // Disable Waring Max Length
+    "max-len": "off",
+    // Enable No Trailing Spaces => Blank Lines Space
+    "skipBlankLines": "on",
+    // Disable Eqeqeq => Operation Assignment '=='
+    "eqeqeq": "off"
+  }
+}
